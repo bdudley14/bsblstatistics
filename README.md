@@ -1,2 +1,3 @@
 # bsblstatistics
 A C++ script to evaluate and compare two baseball players.
+The source code included in "compare.cpp" is a basic programming project, done outside of class. The idea behind it is to take statistics from programs in highschool, college, and below, that may not have the resources to compute advanced statistics. So long as a coach or player has the number of hits, as well as what kind of hits they are, they can calculate and compare two players on the basis of SLG% (slugging percent) and ISO (isolated power). These are two advanced statistical measured used in the MLB to evaluate players.
